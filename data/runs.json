@@ -219,6 +219,56 @@
       "kept": 168,
       "emailed": true,
       "note": "All sources answered."
+    },
+    {
+      "run_at": "2026-10-25T06:09:04+08:00",
+      "checked": [
+        {
+          "source": "MyCareersFuture",
+          "query": "artificial intelligence",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "machine learning",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "generative AI",
+          "results": 40
+        },
+        {
+          "source": "MyCareersFuture",
+          "query": "innovation",
+          "results": 40
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:databricks",
+          "results": 28
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:stripe",
+          "results": 51
+        },
+        {
+          "source": "Company site",
+          "query": "greenhouse:anthropic",
+          "results": 11
+        },
+        {
+          "source": "Company site",
+          "query": "lever:palantir",
+          "results": 4
+        }
+      ],
+      "found": 39,
+      "new": 3,
+      "kept": 171,
+      "emailed": true,
+      "note": "LinkedIn alert file: [Errno 2] No such file or directory: '/tmp/linkedin.json'"
     }
   ]
 }
