@@ -3,7 +3,7 @@
     "title": "AI and Innovation Job Scout",
     "focus": "AI and innovation roles in Singapore for business graduates",
     "schedule": "Every day at 6:07 AM, Singapore time",
-    "updated_at": "2026-11-25T06:09:00+08:00",
+    "updated_at": "2026-11-26T06:09:21+08:00",
     "card": {
       "job": "Find new AI and innovation job posts in Singapore each morning and list them here",
       "trigger": "Schedule: every day at 6:07 AM, Singapore time",
@@ -13,6 +13,606 @@
     }
   },
   "jobs": [
+    {
+      "id": "mcf-646fc86ebf29af3b50e7024b09e4953f",
+      "title": "Software Engineer Intern, Machine Learning (PhD)",
+      "company": "FACEBOOK SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-intern-machine-learning-facebook-singapore-646fc86ebf29af3b50e7024b09e4953f",
+      "posted": "2026-11-25",
+      "salary": "S$8,125 to S$11,333 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-4728ab3760f1757e8ae4b09f58222378",
+      "title": "Research Engineer (Cognitive Science and Trustworthy AI (CoSTA) Lab))",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/research-engineer-lab-national-university-singapore-4728ab3760f1757e8ae4b09f58222378",
+      "posted": "2026-11-25",
+      "salary": "S$5,000 to S$5,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-e363075d194e889812ed9716a4dd3a35",
+      "title": "Data Analyst - AI solutions/ Manufacturing (1 Year Contract) - VTAL",
+      "company": "RECRUITPEDIA PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/manufacturing/data-analyst-ai-solutions-manufacturing-vtal-recruitpedia-e363075d194e889812ed9716a4dd3a35",
+      "posted": "2026-11-25",
+      "salary": "S$4,000 to S$6,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-091b6c2139252fca95e6ea233207aeec",
+      "title": "Senior AI Algorithm Engineer (Post-Training)",
+      "company": "SAIL TECHNOLOGY PRIVATE LIMITED",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/senior-ai-algorithm-engineer-sail-technology-091b6c2139252fca95e6ea233207aeec",
+      "posted": "2026-11-25",
+      "salary": "S$12,000 to S$18,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-65d51589438e26f75599ef22d21945e4",
+      "title": "Senior AI Engineer - Leading AI for retail firm (AI/MLOps/Python)",
+      "company": "DADACONSULTANTS PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/senior-ai-engineer-leading-ai-retail-firm-dadaconsultants-65d51589438e26f75599ef22d21945e4",
+      "posted": "2026-11-25",
+      "salary": "S$6,000 to S$9,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-fa061c1cbd7e129b318259988fb344be",
+      "title": "Research Fellow / Research Associate (Fluid dynamics simulation and AI)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/sciences/research-fellow-research-associate-nanyang-technological-university-fa061c1cbd7e129b318259988fb344be",
+      "posted": "2026-11-25",
+      "salary": "S$4,000 to S$8,000 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-15b0ff0f630ec5018c7bebb487dba8b4",
+      "title": "Research Fellow (Trustworthy Machine Learning for Earth Observation)",
+      "company": "NANYANG TECHNOLOGICAL UNIVERSITY",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/research-fellow-nanyang-technological-university-15b0ff0f630ec5018c7bebb487dba8b4",
+      "posted": "2026-11-25",
+      "salary": "S$6,000 to S$12,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-46a09af9005cb3fc293d1f8a0f40eb33",
+      "title": "AI Software Engineer / AI Application Developer",
+      "company": "DEZIGN FORMAT PTE LTD",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-software-engineer-ai-application-developer-dezign-format-46a09af9005cb3fc293d1f8a0f40eb33",
+      "posted": "2026-11-25",
+      "salary": "S$4,500 to S$6,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-2efb15b48ef3c69c8644b5b9875602fd",
+      "title": "Digital Business Analyst (AI Focus)",
+      "company": "NEUTRON PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/digital-business-analyst-neutron-2efb15b48ef3c69c8644b5b9875602fd",
+      "posted": "2026-11-25",
+      "salary": "S$7,000 to S$8,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-35539bb0c949e0298f74819981cdbb82",
+      "title": "Forward Deployed Engineer, GenAI (Thai, English) - Singapore",
+      "company": "GOOGLE ASIA PACIFIC PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/forward-deployed-engineer-genai-singapore-google-asia-pacific-35539bb0c949e0298f74819981cdbb82",
+      "posted": "2026-11-25",
+      "salary": "S$9,000 to S$18,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-8cb173af77d2fade28f86fde6259bbfa",
+      "title": "AI and Machine Learning Analyst (6 months contract, renewable)",
+      "company": "ASCENDION ENGINEERING SOLUTIONS SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/ai-machine-learning-analyst-ascendion-engineering-solutions-singapore-8cb173af77d2fade28f86fde6259bbfa",
+      "posted": "2026-11-25",
+      "salary": "S$5,500 to S$7,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"Machine Learning\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-02b66676308465a460acb7395e5e3446",
+      "title": "Software Engineer in Machine Learning Infra - TikTok Recommendation Architecture",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-machine-learning-infra-tiktok-recommendation-architecture-tiktok-02b66676308465a460acb7395e5e3446",
+      "posted": "2026-11-25",
+      "salary": "S$11,250 to S$22,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-2ec9d0a1c34757a9542e47c9ac13ac24",
+      "title": "Software Engineer in Machine Learning Infra, TikTok Recommendation Architecture",
+      "company": "TIKTOK PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/software-engineer-machine-learning-infra-tiktok-recommendation-architecture-tiktok-2ec9d0a1c34757a9542e47c9ac13ac24",
+      "posted": "2026-11-25",
+      "salary": "S$6,500 to S$13,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-736c79e3c7382052bf5042f4a12c5e71",
+      "title": "Machine Learning Engineer – Marketplace Algorithms & Data Platforms",
+      "company": "DADACONSULTANTS PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/machine-learning-engineer-%E2%80%93-marketplace-algorithms-data-platforms-dadaconsultants-736c79e3c7382052bf5042f4a12c5e71",
+      "posted": "2026-11-25",
+      "salary": "S$6,000 to S$8,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-126aa85129cf9c19a0f300198ae823db",
+      "title": "Research Scientist Intern, Generative Recommendation (PhD)",
+      "company": "FACEBOOK SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/research-scientist-intern-generative-recommendation-facebook-singapore-126aa85129cf9c19a0f300198ae823db",
+      "posted": "2026-11-25",
+      "salary": "S$8,125 to S$11,333 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"Generative\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-c3146d63cd898a69ee8f3e912ae0a45d",
+      "title": "AI  LEAD",
+      "company": "OAKTREE CONSULTING",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-lead-oaktree-consulting-c3146d63cd898a69ee8f3e912ae0a45d",
+      "posted": "2026-11-25",
+      "salary": "S$12,000 to S$15,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-f8a0988e7c5d7d7a051926c53d5a1ecc",
+      "title": "Associate Data Scientist",
+      "company": "USER EXPERIENCE RESEARCHERS PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/associate-data-scientist-user-experience-researchers-f8a0988e7c5d7d7a051926c53d5a1ecc",
+      "posted": "2026-11-25",
+      "salary": "S$2,800 to S$5,600 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-370462491926d688c4777d0a6bc194b8",
+      "title": "Research Scientist Intern, Generative AI (PhD)",
+      "company": "FACEBOOK SINGAPORE PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/research-scientist-intern-generative-ai-facebook-singapore-370462491926d688c4777d0a6bc194b8",
+      "posted": "2026-11-25",
+      "salary": "S$8,125 to S$11,333 a month",
+      "track": "AI",
+      "level": "Entry",
+      "why": "title has \"Generative\" and \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-bdf0ac4835ac6a55bb387e38a42a4699",
+      "title": "Embodied AI Researcher/Engineer",
+      "company": "ROBOSPEC PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/embodied-ai-researcherengineer-robospec-bdf0ac4835ac6a55bb387e38a42a4699",
+      "posted": "2026-11-25",
+      "salary": "S$5,500 to S$10,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-57fe067122bb1381fad524ff77639e77",
+      "title": "Solutions Architect (Cloud and Ai)",
+      "company": "ECLOUDVALLEY TECHNOLOGY PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/solutions-architect-ecloudvalley-technology-57fe067122bb1381fad524ff77639e77",
+      "posted": "2026-11-25",
+      "salary": "S$5,000 to S$10,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Ai\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-9973257fd04d3a9b1d68b1eab6fb9814",
+      "title": "Research Assistant (Cognitive Science and Trustworthy AI (CoSTA) Lab))",
+      "company": "NATIONAL UNIVERSITY OF SINGAPORE",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/research-assistant-lab-national-university-singapore-9973257fd04d3a9b1d68b1eab6fb9814",
+      "posted": "2026-11-25",
+      "salary": "S$5,000 to S$5,500 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-f82ebbf565bf3332197ccad0ee14990f",
+      "title": "Data Scientist Analyst",
+      "company": "SAKSOFT PTE LIMITED",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/data-scientist-analyst-saksoft-f82ebbf565bf3332197ccad0ee14990f",
+      "posted": "2026-11-25",
+      "salary": "S$5,500 to S$6,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-5298e5141de116f4e4efcfa5fd645274",
+      "title": "AI Application Consultant and Engineer (Generative AI & Agentic AI)(Japanese Speaking)",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-application-consultant-engineer-abeam-consulting-5298e5141de116f4e4efcfa5fd645274",
+      "posted": "2026-11-25",
+      "salary": "S$8,000 to S$10,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\" and \"Generative\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-5a32b4b944032fe97c5a1917e55dd202",
+      "title": "AVP/VP, Data Scientist, Investment Insights Group (17435)",
+      "company": "GIC PRIVATE LIMITED",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/banking-finance/avpvp-data-scientist-investment-insights-group-gic-5a32b4b944032fe97c5a1917e55dd202",
+      "posted": "2026-11-25",
+      "salary": "S$6,500 to S$13,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-5d6e34018cff1e8f84fcd127b8376095",
+      "title": "AI Engineer",
+      "company": "QUESS SELECTION & SERVICES PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineer-quess-selection-services-5d6e34018cff1e8f84fcd127b8376095",
+      "posted": "2026-11-25",
+      "salary": "S$6,000 to S$8,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-a27a02ec05d61c8aa9c5b11827693b5c",
+      "title": "AI Engineering / Consultant / Senior Specialist (Based in Singapore)",
+      "company": "ABEAM CONSULTING (SINGAPORE) PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/ai-engineering-consultant-senior-specialist-abeam-consulting-a27a02ec05d61c8aa9c5b11827693b5c",
+      "posted": "2026-11-25",
+      "salary": "S$6,000 to S$8,000 a month",
+      "track": "AI",
+      "level": "Senior",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-f69934fd4dac11a9cf6c0140bc8b6e5c",
+      "title": "Forward Deployed Software Engineer (GenAI & Agentic Solutions) (1 Year Contract)",
+      "company": "RHINO PARTNERS PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/forward-deployed-software-engineer-rhino-partners-f69934fd4dac11a9cf6c0140bc8b6e5c",
+      "posted": "2026-11-25",
+      "salary": "S$6,000 to S$10,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-e551848cf9d78ad5c76980a08799e87d",
+      "title": "Part-Time AI Content Creation Instructor",
+      "company": "CAPITAL COLLEGE OF THE ARTS, MANAGEMENT AND TECHNOLOGY PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/education-training/part-time-ai-content-creation-instructor-capital-college-arts-management-technology-e551848cf9d78ad5c76980a08799e87d",
+      "posted": "2026-11-25",
+      "salary": "S$60 to S$90 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-f2ea055a10e3cd33ba703282b8707064",
+      "title": "Cloud Solution Architect - Big Data & AI (APAC - CTO Office)",
+      "company": "MICHAEL PAGE (PERSONNEL) PTE. LTD.",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/information-technology/cloud-solution-architect-big-data-ai-michael-page-f2ea055a10e3cd33ba703282b8707064",
+      "posted": "2026-11-25",
+      "salary": "S$12,000 to S$18,000 a month",
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "mcf-cda248eace5a083f0ce5f6a5b03e3ad1",
+      "title": "Innovation Engineer Intern",
+      "company": "TRINAX PRIVATE LIMITED",
+      "location": "Singapore",
+      "source": "MyCareersFuture",
+      "url": "https://www.mycareersfuture.gov.sg/job/engineering/innovation-engineer-intern-trinax-cda248eace5a083f0ce5f6a5b03e3ad1",
+      "posted": "2026-11-25",
+      "salary": "S$800 to S$1,000 a month",
+      "track": "Innovation",
+      "level": "Entry",
+      "why": "title has \"Innovation\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4493635815",
+      "title": "AI Enablement Analyst",
+      "company": "HSBC",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4493635815/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4485454767",
+      "title": "Software Engineer (GenAI Platform), Ai & Data Platforms",
+      "company": "Apple",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4485454767/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\" and \"Ai\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4494021302",
+      "title": "Forward Deployed Engineer, GenAI (Mandarin, English)",
+      "company": "Google",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4494021302/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4493787647",
+      "title": "Forward Deployed Engineer, GenAI (Thai, English)",
+      "company": "Google",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4493787647/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4483983402",
+      "title": "Account Executive, Model AI API (Singapore)",
+      "company": "Meta",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4483983402/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4493626668",
+      "title": "GenAI Engineer",
+      "company": "Barnes Aerospace",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4493626668/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4493612789",
+      "title": "GenAI Engineer",
+      "company": "Barnes Aerospace",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4493612789/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"GenAI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4466658052",
+      "title": "Software Engineer - Machine Learning (Technical Leadership)",
+      "company": "Meta",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4466658052/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Machine Learning\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4493557874",
+      "title": "Junior Data Scientist (SQL/Python)",
+      "company": "Optimum Solutions Pte Ltd",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4493557874/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"Data Scientist\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
+    {
+      "id": "li-4441939156",
+      "title": "AI Product Engineer",
+      "company": "DSO National Laboratories",
+      "location": "Singapore",
+      "source": "LinkedIn",
+      "url": "https://www.linkedin.com/comm/jobs/view/4441939156/",
+      "posted": null,
+      "salary": null,
+      "track": "AI",
+      "level": "Not stated",
+      "why": "title has \"AI\"",
+      "first_seen": "2026-11-26T06:09:21+08:00",
+      "last_seen": "2026-11-26T06:09:21+08:00"
+    },
     {
       "id": "mcf-4c98196b0ab07ea2266628491abc3bab",
       "title": "Assistant Director(Artificial intelligence and emerging technologies)",
@@ -71,7 +671,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-cbe1854cdeb6529919a469ad077f9412",
@@ -86,7 +686,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-ef5e8cdc5bacca952ba384f951ed884a",
@@ -161,7 +761,7 @@
       "level": "Senior",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-ae62bf581f1200c7f107c7ff79a58d9c",
@@ -401,7 +1001,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-b1c3f3a14da4835234c8a2f140a23936",
@@ -416,7 +1016,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-0d6f8aa91ddc6ccd0bcf50c4e8f2a500",
@@ -431,7 +1031,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-c0984c0be6ace356de2720d1b8f70aa0",
@@ -446,7 +1046,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-3357f76679645b5d7459fe33a8bafa7b",
@@ -491,7 +1091,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4483479575",
@@ -506,7 +1106,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4477647131",
@@ -521,7 +1121,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4484893834",
@@ -536,7 +1136,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4430546859",
@@ -551,7 +1151,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4493387864",
@@ -566,7 +1166,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4493561751",
@@ -581,7 +1181,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4456917841",
@@ -596,7 +1196,7 @@
       "level": "Senior",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4467538498",
@@ -611,7 +1211,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4477162380",
@@ -626,7 +1226,7 @@
       "level": "Entry",
       "why": "title has \"AI\" and \"LLM\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4492301619",
@@ -641,7 +1241,7 @@
       "level": "Entry",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4456951367",
@@ -656,7 +1256,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-25T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-03525034b8690a4329da1db4e7f80f17",
@@ -1136,7 +1736,7 @@
       "level": "Entry",
       "why": "title has \"Innovation\"",
       "first_seen": "2026-11-24T06:09:19+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-79e6035c0bc4bf57e5945ebbb4f0c557",
@@ -1226,7 +1826,7 @@
       "level": "Entry",
       "why": "title has \"Generative\" and \"AI\"",
       "first_seen": "2026-11-23T06:09:41+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4492550573",
@@ -4601,7 +5201,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-17T06:09:00+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4475048736",
@@ -5426,7 +6026,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-14T06:11:59+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4489001397",
@@ -9161,7 +9761,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-06T06:09:51+08:00",
-      "last_seen": "2026-11-06T06:09:51+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-69d80b0051e9ef4d676d3d3139eac909",
@@ -10076,7 +10676,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-05T06:09:29+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "gh-anthropic-5424312008",
@@ -10091,7 +10691,7 @@
       "level": "Senior",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-05T06:09:29+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4486160718",
@@ -10751,7 +11351,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-04T06:09:17+08:00",
-      "last_seen": "2026-11-04T06:09:17+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4486422335",
@@ -10781,7 +11381,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\" and \"AI\"",
       "first_seen": "2026-11-04T06:09:17+08:00",
-      "last_seen": "2026-11-04T06:09:17+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4484018870",
@@ -10811,7 +11411,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-04T06:09:17+08:00",
-      "last_seen": "2026-11-06T06:09:51+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4419696734",
@@ -11516,7 +12116,7 @@
       "level": "Not stated",
       "why": "title has \"Data Scientist\"",
       "first_seen": "2026-11-03T06:09:04+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-6659b60fec29a86a1b9edf9932ff48af",
@@ -11561,7 +12161,7 @@
       "level": "Entry",
       "why": "title has \"Artificial Intelligence\"",
       "first_seen": "2026-11-02T06:09:01+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4483933152",
@@ -11576,7 +12176,7 @@
       "level": "Entry",
       "why": "title has \"Generative\" and \"AI\"",
       "first_seen": "2026-11-02T06:09:01+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4475296530",
@@ -11591,7 +12191,7 @@
       "level": "Not stated",
       "why": "title has \"Machine Learning\"",
       "first_seen": "2026-11-02T06:09:01+08:00",
-      "last_seen": "2026-11-04T06:09:17+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4475605096",
@@ -11636,7 +12236,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-11-02T06:09:01+08:00",
-      "last_seen": "2026-11-04T06:09:17+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4485170607",
@@ -13646,7 +14246,7 @@
       "level": "Entry",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-29T06:09:06+08:00",
-      "last_seen": "2026-11-07T06:09:03+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4475056486",
@@ -14186,7 +14786,7 @@
       "level": "Senior",
       "why": "title has \"AI\" and \"ML\"",
       "first_seen": "2026-10-28T06:09:36+08:00",
-      "last_seen": "2026-11-25T06:09:00+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "mcf-510f6dba5f44af967deb3a914a1d9723",
@@ -15101,7 +15701,7 @@
       "level": "Not stated",
       "why": "title has \"AI\"",
       "first_seen": "2026-10-26T06:10:10+08:00",
-      "last_seen": "2026-10-28T06:09:36+08:00"
+      "last_seen": "2026-11-26T06:09:21+08:00"
     },
     {
       "id": "li-4437112355",
